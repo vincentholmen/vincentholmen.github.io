@@ -1,43 +1,46 @@
-# vincentholmen.github.io
-
-## // Vincent Holmen <small>|</small> <small>Software Engineer</small>  
-<small>**Email:** [`vcholmen@gmail.com`](mailto:vcholmen@gmail.com) | **Phone:** `952-923-9451`</small>
+# // Vincent Holmen <small>|</small> <small>Software Engineer</small>  
+<small>**Email:** [`vcholmen@gmail.com`](mailto:vcholmen@gmail.com) | **Phone:** `206-852-0239`</small>
 
 ---
-### *Career Profile:*  
-Currently working at CDK Global as a Team Lead for 3rd Party Vendor
-script migrations, my primary responsibilities include: developing
-various project solutions using Node.Js and other technologies,
-integrating 3rd party vendor scripts into client websites, as well
-debugging, testing, and documenting various scripts and plugins. Over
-the past 6 years I have worked in various roles for multiple companies
-with responsibilities including: developing a company marketing website
-platform, creating digital and print mass marketing material for a
-magnitude of businesses, developing web solutions for various freelance
-clients, as well as client facing roles, project management, and phone
-support.
+## *//Career Profile:*  
+Currently working at CDK Global as a Software Engineer, my primary responsibilities include:  
+* Developing and maintaining solutions for natively integrating 3rd party applications into the core CDK platform.  
+* Create, Maintain and Document an in-house functional testing framework for 3rd Party Integrations.  
+* Develop tools for improving developer workflow and process automation.
+* Frequently work with 3rd Party App CEOs & CTOs to build partnerships and strategy.
 
-### *Skill Profile:*
+Over the past 7 years I have worked in various roles with responsibilities including: Web design and development, digital and print marketing design, freelance web consulting, as well as roles such as project management and consumer facing support.
+
+## *//Skill Profile:*
+
+**Experienced:**  
+Javascript (ES6), NodeJS, Typescript, Selenium, HTML, CSS (SASS & LESS).
+
+**Proficient:**  
+ReactJS, Angular 1.x / 4, NodeJS, Express, MongoDB.
+
+**Areas of Knowledge:**  
+UI Design, REST APIs, noSQL, Application Planning, MVC Concepts, Marketing, Data Management.
+
+**Software:**  
+Adobe Suite (Photoshop, Illustrator, InDesign, DreamWeaver), Various IDEs, Microsoft Office.
 
 
 
-### *Experience Profile:*
-
+## *//Experience Profile:*
 
 `7/2016 – Current`  
 <span><big>**Software Engineer I**</big></span>  
 <span>**CDK Global** | <small>Seattle, WA</small></span>  
 
 
--   Develop various large time saving solutions for multiple projects
-    using Node.js
+-   Develop and Maintain solutions for integrating 3rd party applications into the core platform.
 
--   Integrate 3rd Party vendor scripts into CDK web platform and write
-    documentation. **3rd Party Script Team Lead**  
+-   Develop an in-house functional testing framework to automate validation of 3rd party applications.
 
--   Debugging and testing vendor script integrations.
+-   Create various developer tools, with a primary focus on process automation.
 
--   Quality assurance testing for new website migrations.
+-   Work closely with 3rd Party Application CEOs and CTOs to create and foster company partnerships.
 
 
 `4/2011 – 08/2016`  
@@ -45,10 +48,10 @@ support.
 <span>**Dollars & Sense Magazine** | <small>Minneapolis, MN</small></span>  
 
 
--   Design and Develop company website and joomla based marketing
+-   Design and develop a company website and Joomla based marketing
     platform.
 
--   Design advertisements for 100’s of business throughout the Twin
+-   Design advertisements for countless businesses throughout the Twin
     Cities.
 
 -   Create print quality graphics using Adobe Photoshop and Adobe
@@ -69,7 +72,6 @@ support.
 -   Process incoming product graphics and images and make necessary
     changes.
 
-
 -   Build marketing emails from templates for mass email campaigns.
 
 -   Work with a small team to ensure all tasks are completed by set
@@ -77,13 +79,12 @@ support.
 
 
 
-## **//Education:**
+## *//Education:*
 
 `01/2015 – 01/2016`  
 <span><big>**Web and Interactive Design**</big> - Associates program</span>  
 <span>**Rasmussen College** | <small>Bloomington, MN</small></span>
 
-**//Web Profile:**
-================
+## *//Web Profile:*
 
-**[Website: https://vincentholmen.github.io](https://vincentholmen.github.io)**
+**Website: [https://vincentholmen.github.io](https://vincentholmen.github.io)**
