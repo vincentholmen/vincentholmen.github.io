@@ -83,7 +83,7 @@ support.
 <span><big>**Web and Interactive Design**</big> - Associates program</span>  
 <span>**Rasmussen College** | <small>Bloomington, MN</small></span>
 
-**//Portfolio:**
+**//Web Profile:**
 ================
 
-**“**[*www.Elevatedm.com*](http://www.elevatedm.com)**”**
+**[Website: https://vincentholmen.github.io](https://vincentholmen.github.io)**
